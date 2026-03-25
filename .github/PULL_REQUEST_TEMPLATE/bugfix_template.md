@@ -33,10 +33,3 @@
 
 ## 👀 리뷰 포인트 (선택)
 리뷰어가 특히 봐줬으면 하는 부분이 있으면 작성합니다.
-
-
-<hr style="height: 2px; border: 0;">
-
-### 🔙 [기능 구현 템플릿으로 가기](?expand=1&template=feature_template.md)
-
-### 🔙 [업무 관련 템플릿으로 가기](?expand=1&template=task_template.md)

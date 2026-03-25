@@ -28,9 +28,3 @@
 
 ## 👀 리뷰 포인트 (선택)
 리뷰어가 특히 봐줬으면 하는 부분이 있으면 작성합니다.
-
----
-
-### 🔙 [버그 수정 템플릿으로 가기](?expand=1&template=bugfix_template.md)
-
-### 🔙 [업무 관련 템플릿으로 가기](?expand=1&template=task_template.md)
