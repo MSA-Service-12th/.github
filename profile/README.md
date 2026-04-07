@@ -204,7 +204,9 @@ user ──[user-update-topic]──▶ company
 | 📥 소스코드 (Drive) | https://drive.google.com/drive/folders/1IHgI75XTCaiEMEdQ-G3TsfzHIDrIQflv |
 
 <p align="center">
-  <img src="profile/images/loopang-qr.png" alt="QR Code — Loopang 랜딩 페이지" width="220" />
+  <a href="https://msa-service-12th.github.io/loopang-site/">
+    <img src="https://raw.githubusercontent.com/MSA-Service-12th/.github/main/profile/images/loopang-qr.png" alt="QR Code — Loopang 랜딩 페이지" width="220" />
+  </a>
   <br />
   <em>📱 QR 코드를 스캔하면 랜딩 페이지로 이동합니다</em>
 </p>
