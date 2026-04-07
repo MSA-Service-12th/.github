@@ -16,28 +16,13 @@
   <img alt="GCP" src="https://img.shields.io/badge/GCP-Kafka-4285F4" />
 </p>
 
-<!-- 산타 + 허브 네트워크 배너 이미지 -->
-<!-- ![banner](docs/images/banner.png) -->
+## ✨ 핵심 특징
 
----
-
-## 🎄 왜 이 프로젝트를 만들었는가
-
-> *"If Santa delivered presents to every child, the resulting sonic booms*
-> *would devastate humanity."*
-> — Richard Dawkins (paraphrased)
-
-전 세계 모든 아이에게 단 하룻밤 만에 배달해야 한다면 산타는 음속을 돌파해야 합니다.
-혼자서는 결국 무너지는 그 시스템을, **17명의 산타가 각자 가까운 구역만 책임지면**
-누구도 잠 못 드는 일 없이 끝낼 수 있습니다.
-
-**Loopang은 그 17명의 산타를 만드는 시스템입니다.**
-
-- 단일 배송 거점 ❌
-- **17개 허브 + Hub-and-Spoke 네트워크** ✅
+- **17개 허브 + Hub-and-Spoke 네트워크**로 분산된 배송 거점
 - **다익스트라 + 실시간 혼잡도 가중**으로 막힌 허브를 자동 우회
 - **Outbox/Inbox 패턴**으로 도메인 이벤트의 트랜잭션 안전성 보장
 - **AWS + GCP 멀티 클라우드**로 단일 장애점 격리
+- **Spring Cloud 기반 9개 마이크로서비스**
 
 ---
 
@@ -291,15 +276,13 @@ loopang/
 
 ## 👥 팀 — 스파르타 12조
 
-> 12조의 산타들
-
-| 이름 | 역할 | GitHub |
-|---|---|---|
-| (이름) | (담당 도메인) | [@id](https://github.com/id) |
-| (이름) | (담당 도메인) | [@id](https://github.com/id) |
-| (이름) | (담당 도메인) | [@id](https://github.com/id) |
-| (이름) | (담당 도메인) | [@id](https://github.com/id) |
-| (이름) | (담당 도메인) | [@id](https://github.com/id) |
+| 이름 | 담당 |
+|---|---|
+| **이현규** | `common` 라이브러리 · `gateway` AWS 배포 · `user-service` · `hub-service` · `route-service` |
+| **이현빈** | GCP **Kafka 클러스터 구축** · `order-service` · `delivery-service` 구현 |
+| **이예원** | `item-service` · `message-service` (+ Gemini AI) · `config-server` |
+| **신단비** | `eureka-server` · `company-service` |
+| **문연희** | `delivery-service` 설계 |
 
 ---
 
@@ -310,5 +293,5 @@ loopang/
 ---
 
 <p align="center">
-  Made with ☃️ by <strong>Loopang 12조</strong>
+  <strong>Loopang — 스파르타 12조</strong>
 </p>
