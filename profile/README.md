@@ -198,9 +198,16 @@ user ──[user-update-topic]──▶ company
 
 | 항목 | 링크 |
 |---|---|
-| 🌍 라이브 서비스 | https://loopang.site |
+| 🌐 **랜딩 페이지** | **https://msa-service-12th.github.io/loopang-site/** |
+| 🌍 API 게이트웨이 | https://loopang.site |
 | 🎤 발표 자료 (Canva) | https://canva.link/hr2enth7mtwv4ge |
 | 📥 소스코드 (Drive) | https://drive.google.com/drive/folders/1IHgI75XTCaiEMEdQ-G3TsfzHIDrIQflv |
+
+<p align="center">
+  <img src="profile/images/loopang-qr.png" alt="QR Code — Loopang 랜딩 페이지" width="220" />
+  <br />
+  <em>📱 QR 코드를 스캔하면 랜딩 페이지로 이동합니다</em>
+</p>
 
 ---
 
