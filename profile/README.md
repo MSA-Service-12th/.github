@@ -283,6 +283,7 @@ loopang/
 | **이예원** | `item-service` · `message-service` (+ Gemini AI) · `config-server` |
 | **신단비** | `eureka-server` · `company-service` |
 | **문연희** | `delivery-service` 설계 |
+| 성명규 *(중도 이탈)* | `user-service` 설계 |
 
 ---
 
